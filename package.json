@@ -1,0 +1,26 @@
+{
+  "name": "kairos-muse",
+  "version": "1.0.0",
+  "description": "A Node.js application for recording and streaming data from Muse EEG headsets",
+  "main": "kairos.js",
+  "scripts": {
+    "start": "node kairos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "muse",
+    "eeg",
+    "brain",
+    "bluetooth",
+    "ble",
+    "neuroscience"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+} 
