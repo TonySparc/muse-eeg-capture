@@ -1,4 +1,4 @@
-# Kairos Muse Recorder
+# Muse Recorder
 
 Controls:
 - SPACE: mark intuitive
